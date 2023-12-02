@@ -1,0 +1,11 @@
+Metrics/MethodLength:
+  Max: 99
+
+Metrics/CyclomaticComplexity:
+  Max: 15
+
+Style/FrozenStringLiteralComment:
+  Enabled: false  
+  
+Naming/MethodParameterName:
+  Enabled: false
